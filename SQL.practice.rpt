@@ -1,0 +1,14 @@
+﻿BookId      Title                                                                                                                                                                                                    Author               Price                                   PublishedYear
+----------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------- --------------------------------------- -------------
+1           Atomic Habits                                                                                                                                                                                            James Clear          950.00                                  2018
+2           Deep Work                                                                                                                                                                                                	Cal Newport         550.00                                  2016
+3           The Alchemist                                                                                                                                                                                            	Paulo Coelho        350.00                                  1980
+4           	Think Again                                                                                                                                                                                             		Adam Grant         600.00                                  2021
+5           	The Power of Habit                                                                                                                                                                                      	Charles Duhigg      400.00                                  2013
+6           	The Psychology of Money                                                                                                                                                                                 	Morgan Housel       650.00                                  2020
+7           	Digital Minimalism                                                                                                                                                                                      	Cal Newport         500.00                                  2019
+
+(7 rows affected)
+
+
+Completion time: 2026-10-30T14:47:30.4346505+05:30
